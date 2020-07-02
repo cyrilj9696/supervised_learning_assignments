@@ -1,7 +1,7 @@
 # Supervised Learning Assignments
 
 ### Python
-### Pandas 
+### Pandas
 ### Numpy
 ### Matplotlib
 ### Tableau
